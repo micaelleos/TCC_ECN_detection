@@ -27,6 +27,6 @@ Dentre as modalidades de exames de imagem, a radiografa plana é a mais utilizad
 ## Base de Dados
 Para a detecção da doença, um marcador radiológico conhecido como Pneumatose intestinal foi selecionado para fazer o diagnóstico da doença, por se tratar de um marcador quase específico. 
 
-A base de dados desenvolvida no trabalho de conclusão de curso por ser encontrada no link: 
+A base de dados desenvolvida no trabalho de conclusão de curso por ser encontrada no link: https://biochaves.com/downloads/banco-de-dados/
 
 No arquivo do site há duas bases de dados, uma com amostragem por holdout e outra com amostras organizadas para ser feito a validação crusada dos dados. Ao todo são 32.340 amostras de imagens sem e com PI. Para a construção dessas bases técnicas de aumentdo de dados foram implementados, já que a disponibilidade de exames com PI eram muito pequenos.
