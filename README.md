@@ -21,7 +21,7 @@ A Enterocolite Necrosante (ECN) é uma doença inﬂamatória intestinal, e é c
 Dentre as modalidades de exames de imagem, a radiografa plana é a mais utilizada para o diagnóstico de ECN. Entretanto, há uma certa difculdade em reconhecer os  padrões de imagem da doença, por conta da sutileza de seus marcadores radiológicos, o que faz com que haja pouca concordância entre especialistas, na avaliação de um mesmo exame. Em vista disso, o diagnóstico assistido por computador poderia ser uma importante ferramenta para auxiliar especialistas.
 
 <p align="center">
-  <img src="https://github.com/micaelleos/TCC_ECN_detection/blob/main/res/cad.png" width="100" title="hover text">
+  <img src="https://github.com/micaelleos/TCC_ECN_detection/blob/main/res/cad.png" width="400" title="hover text">
 </p>
 
 ## Base de Dados
